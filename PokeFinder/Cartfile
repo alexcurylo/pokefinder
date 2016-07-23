@@ -1,0 +1,15 @@
+#
+# Cartfile
+# PokeFinder
+#
+# Copyright © 2016 Trollwerks Inc. All rights reserved.
+#
+
+# Alamofire: networking
+#github "Alamofire/Alamofire"
+
+# R.swift.Library: Static resource typing
+github "mac-cain13/R.swift.Library"
+
+# SwiftyBeaver: logging
+#github "SwiftyBeaver/SwiftyBeaver"
