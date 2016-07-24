@@ -6,7 +6,7 @@
 #
 
 # Alamofire: networking
-#github "Alamofire/Alamofire"
+github "Alamofire/Alamofire"
 
 # R.swift.Library: Static resource typing
 github "mac-cain13/R.swift.Library"
