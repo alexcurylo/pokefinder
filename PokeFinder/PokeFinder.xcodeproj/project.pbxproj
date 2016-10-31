@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA25E3D21DA5B9C200888771 /* silent.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA25E3D11DA5B9C200888771 /* silent.mp3 */; };
 		FA4DEC721D3E6E5700E48C93 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4DEC711D3E6E5700E48C93 /* AppDelegate.swift */; };
 		FA4DEC741D3E6E5700E48C93 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4DEC731D3E6E5700E48C93 /* FirstViewController.swift */; };
 		FA4DEC761D3E6E5700E48C93 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4DEC751D3E6E5700E48C93 /* SecondViewController.swift */; };
@@ -35,6 +36,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA0336C51DA55D4E0034B55B /* TrainerWalk.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = TrainerWalk.gpx; sourceTree = "<group>"; };
+		FA0336C61DA55D560034B55B /* How to trick Pokemon Go- Use GPX to walk 10k from your bedroom - iOS-Blog.webloc */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = "How to trick Pokemon Go- Use GPX to walk 10k from your bedroom - iOS-Blog.webloc"; sourceTree = "<group>"; };
+		FA25E3D11DA5B9C200888771 /* silent.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = silent.mp3; sourceTree = "<group>"; };
 		FA4DEC6E1D3E6E5600E48C93 /* PokeFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokeFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA4DEC711D3E6E5700E48C93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FA4DEC731D3E6E5700E48C93 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -99,6 +103,9 @@
 		FA4DEC701D3E6E5600E48C93 /* PokeFinder */ = {
 			isa = PBXGroup;
 			children = (
+				FA0336C61DA55D560034B55B /* How to trick Pokemon Go- Use GPX to walk 10k from your bedroom - iOS-Blog.webloc */,
+				FA0336C51DA55D4E0034B55B /* TrainerWalk.gpx */,
+				FA25E3D11DA5B9C200888771 /* silent.mp3 */,
 				FA4DEC711D3E6E5700E48C93 /* AppDelegate.swift */,
 				FA4DEC731D3E6E5700E48C93 /* FirstViewController.swift */,
 				FA4DEC751D3E6E5700E48C93 /* SecondViewController.swift */,
@@ -244,6 +251,7 @@
 				FA4DEC7E1D3E6E5700E48C93 /* LaunchScreen.storyboard in Resources */,
 				FA4DEC7B1D3E6E5700E48C93 /* Assets.xcassets in Resources */,
 				FA4DEC791D3E6E5700E48C93 /* Main.storyboard in Resources */,
+				FA25E3D21DA5B9C200888771 /* silent.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
